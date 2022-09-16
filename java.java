@@ -1,1 +1,2 @@
 echo "hello"
+name=lal
